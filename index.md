@@ -4,6 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+Test rederovaní $$m_{a}{}^{t}\epsilon\mathbb{ma}[t]_{i}ky$$
+
+$$ 
+i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) 
+$$
+
+
+
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
