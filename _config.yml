@@ -13,9 +13,6 @@ sidebar:
     icon: <i class="fa-solid fa-circle-info"></i>
     link: https://matejhosek.github.io/about
 
-    icon: <i class="fa-solid fa-pencil"></i>
-    link: https://matejhosek.github.io/notes
-
   - name: Articles
     icon: <i class="fa-solid fa-newspaper"></i>
     link: https://matejhosek.github.io/articles
@@ -23,7 +20,10 @@ sidebar:
   - name: References
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: https://matejhosek.github.io/references
+
   - name: Notes
+    icon: <i class="fa-solid fa-pencil"></i>
+    link: https://matejhosek.github.io/notes
 
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
