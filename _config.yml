@@ -17,13 +17,13 @@ sidebar:
     icon: <i class="fa-solid fa-newspaper"></i>
     link: https://matejhosek.github.io/articles
 
-  - name: References
-    icon: <i class="fa-solid fa-paper-plane"></i>
-    link: https://matejhosek.github.io/references
-
   - name: Notes
     icon: <i class="fa-solid fa-pencil"></i>
     link: https://matejhosek.github.io/notes
+
+  - name: References
+    icon: <i class="fa-solid fa-paper-plane"></i>
+    link: https://matejhosek.github.io/references
 
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
