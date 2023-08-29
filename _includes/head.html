@@ -1,0 +1,17 @@
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- TODO:SEO -->
+    <link rel="stylesheet" href="{{- '/assets/css/colors-auto-default-dark.css' | relative_url -}}">
+    <link rel="stylesheet" href="{{- '/assets/css/style.css' | relative_url -}}">
+		<link rel="stylesheet" href="{{- '/assets/katex/katex.min.css' | relative_url -}}">
+		<link rel="stylesheet" href="{{- '/assets/font-awesome/styles/font-awesome.css' | relative_url -}}">
+		<!-- You can set your favicon here -->
+		{% if site.favicon %}
+			<link rel="shortcut icon" type="image/x-icon" href="{{- '/favicon.ico' | relative_url -}}">
+		{% endif %}
+		<link rel="preload" href="{{- site.logo | relative_url -}}" as="image">
+  </head>
+
+
