@@ -7,7 +7,7 @@ color-scheme: dark
 sidebar:
   - name: Home
     icon: <i class="fa-solid fa-home"></i>
-    link: https://matejhosek.github.io/
+    link: /
     
   - name: About
     icon: <i class="fa-solid fa-circle-info"></i>
@@ -15,15 +15,15 @@ sidebar:
 
   - name: Articles
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: https://matejhosek.github.io/articles
+    link: /articles
 
   - name: Notes
     icon: <i class="fa-solid fa-pencil"></i>
-    link: https://matejhosek.github.io/notes
+    link: -notes
 
   - name: References
     icon: <i class="fa-solid fa-paper-plane"></i>
-    link: https://matejhosek.github.io/references
+    link: /references
 
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
