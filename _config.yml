@@ -11,7 +11,7 @@ sidebar:
     
   - name: About
     icon: <i class="fa-solid fa-circle-info"></i>
-    link: https://matejhosek.github.io/about
+    link: /about
 
   - name: Articles
     icon: <i class="fa-solid fa-newspaper"></i>
