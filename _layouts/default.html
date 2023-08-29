@@ -13,15 +13,12 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+	  <a href="{{- "/" | absolute_url -}}"><img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo"></a>
           {% endif %}
           {% if site.blank_title %}
             <h1>{{- site.title -}}</h1>
           {% else %}
-            <h1><a href="{{- "/" | absolute_url -}}">{{- site.title  -}}</a></h1>
-          {% endif %}
-          {% if site.email %}
-            <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
+            <h1>{{- site.title  -}}</h1>
           {% endif %}
           <p>{{- site.description -}}</p>
           {% include sidebar.html %}
