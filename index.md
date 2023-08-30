@@ -2,6 +2,24 @@
 layout: default 
 ---
 
+# Testovací výpis poznámek
+{% for post in site.posts %}
+  {% if post.type == "Note" %}
+  <li>
+  	<a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+
+# Testovací výpis článků
+{% for post in site.posts %}
+  {% if post.type == "Article" %}
+  <li>
+  	<a href="{{ post.url}}">{{ post.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Test rederovaní $$m_{a}{}^{t}\epsilon\mathbb{ma}[t]_{i}ky$$
