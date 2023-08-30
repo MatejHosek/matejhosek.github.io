@@ -1,0 +1,16 @@
+<div>
+<h3>
+    {% for post in site.posts %}
+        {% if post.type == "Article" %}
+        <ul class="list">
+            <li>
+                <a class="list" href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            <li>
+                {{ post.date | date: "%e. %m. %Y" }}
+            </li>
+        </ul>
+        {% endif %}
+    {% endfor %}
+</h3>
+</div>
