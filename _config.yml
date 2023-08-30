@@ -3,6 +3,7 @@ logo: /assets/img/logo.png
 description: Permanent residence of my notes and articles about stuff I find interesting
 show_downloads: false
 color-scheme: dark
+date-format: "%B %d %Y"
 
 sidebar:
   - name: Home

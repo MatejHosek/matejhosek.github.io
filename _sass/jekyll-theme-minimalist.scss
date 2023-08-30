@@ -40,7 +40,7 @@ a {
   text-decoration:none;
 }
 
-a:hover, a:focus {
+a.list:hover, a:hover, a:focus {
   color: var(--clr-a-text-hvr);
 }
 
@@ -53,6 +53,17 @@ a small {
 
 a:hover small {
   color:var(--clr-small-in-a);
+}
+
+ul.list {
+  list-style-type: none;
+  display: flex; 
+  justify-content: space-between; 
+  padding-left: 5%;
+}
+
+a.list {
+  color:var(--clr-text);
 }
 
 // added

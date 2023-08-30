@@ -2,23 +2,11 @@
 layout: default 
 ---
 
-# Testovací výpis poznámek
-{% for post in site.posts %}
-  {% if post.type == "Note" %}
-  <li>
-  	<a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endif %}
-{% endfor %}
+## Poznámky
+{% include list-notes.html %}
 
-# Testovací výpis článků
-{% for post in site.posts %}
-  {% if post.type == "Article" %}
-  <li>
-  	<a href="{{ post.url}}">{{ post.title }}</a>
-  </li>
-  {% endif %}
-{% endfor %}
+## Články
+{% include list-articles.html %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
