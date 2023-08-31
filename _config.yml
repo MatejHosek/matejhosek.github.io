@@ -1,32 +1,33 @@
 title: Matěj Hošek
 logo: /assets/img/logo.png
-description: Permanent residence of my notes and articles about stuff I find interesting
+description: Trvalé bydliště mých poznámek a článků o rozličných tématech
 show_downloads: false
 color-scheme: dark
 date-format: "%B %d %Y"
+language: "cs-cz"
 
 sidebar:
-  - name: Home
+  - name: Domů
     icon: <i class="fa-solid fa-home"></i>
     link: /
     
-  - name: About
+  - name: O mě
     icon: <i class="fa-solid fa-circle-info"></i>
     link: /about
 
-  - name: Articles
+  - name: Články
     icon: <i class="fa-solid fa-newspaper"></i>
     link: /articles
 
-  - name: Notes
+  - name: Poznámky
     icon: <i class="fa-solid fa-pencil"></i>
     link: /notes
 
-  - name: References
+  - name: Reference
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /references
 
-  - name: Repository
+  - name: Repozitář
     icon: <i class="fa-sharp fa-solid fa-code"></i>
     link: https://github.com/MatejHosek/MatejHosek.github.io
 
