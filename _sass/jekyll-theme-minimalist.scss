@@ -66,6 +66,13 @@ a.list {
   color:var(--clr-text);
 }
 
+ul.meta {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
 // added
 p.link {
   margin:0 0 4px;

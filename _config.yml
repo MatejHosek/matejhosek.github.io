@@ -20,7 +20,7 @@ sidebar:
 
   - name: Notes
     icon: <i class="fa-solid fa-pencil"></i>
-    link: -notes
+    link: /notes
 
   - name: References
     icon: <i class="fa-solid fa-paper-plane"></i>
