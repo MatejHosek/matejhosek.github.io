@@ -1,13 +1,9 @@
 <div>
-    <h3>
-        {% for post in site.posts %}
-            {% if post.type == "Note" %}
-            <ul class="list">
-                <li>
-                    <a class="list" href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-            </ul>
-            {% endif %}
-        {% endfor %}
-    </h3>
-    </div>
+	{% for post in site.posts %}
+		{% if post.type == "Note" %}
+			<ul class="list">
+				<li><h3><a class="list" href="{{ post.url }}">{{ post.title }}</a></h3></li>
+			</ul>
+		{% endif %}
+	{% endfor %}
+</div>
