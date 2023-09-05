@@ -1,7 +1,12 @@
 ---
 layout: null
 permalink: /feed.xml
-email: sem-si-napis-svuj-email@emil.cz
+# title: Blog atom feed
+# email: e@mail.com
+
+# Taken from blackblog.cz
+# https://github.com/yagarea/blackblog/blob/master/generated/feed.xml
+
 ---
 
 {%- assign all_posts = "" | split: "" -%}
@@ -9,6 +14,7 @@ email: sem-si-napis-svuj-email@emil.cz
 	{%- assign all_posts = all_posts | concat: collection.docs -%}
 {%- endfor -%}
 {%- assign all_posts = all_posts | uniq | sort: "date" | reverse -%}
+
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -19,7 +25,7 @@ email: sem-si-napis-svuj-email@emil.cz
 	<id>{{- site.url -}}/</id>
 	<author>
 		<name>{{- site.author -}}</name>
-		<email>{{- page.email -}}</email>
+		{% if site.email or page.email -%}<email>{{- page.email | default: site.email | xml_escape -}}</email>{%- endif %}
 		<uri>{{- site.url -}}/</uri>
 	</author>
 	<generator>Jekyll v{{- jekyll.version -}}</generator>
