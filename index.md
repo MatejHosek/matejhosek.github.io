@@ -2,11 +2,11 @@
 layout: default 
 ---
 
-## Poznámky
-{% include list-notes.html %}
-
 ## Články
 {% include list-articles.html %}
+
+## Poznámky
+{% include list-notes.html %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
