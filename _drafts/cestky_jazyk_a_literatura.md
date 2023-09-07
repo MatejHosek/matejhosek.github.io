@@ -16,4 +16,4 @@ Díky těmto vlivům prakticky nedošlo k projevu renesance v Českých zemích,
 
 Podobně jako renesance se i humanismus projevil jinak než ve zbytku Evropy. Došlo totiž ke vzniku dvou hlavních větví - české a latinské. Někteří humanisté totiž zastávali názor, že český jazyk je příliš jednoduchý, aby se jím daly psát práce a že pouze latina je dostatečné vivinuta pro toto pooužití.
 
-Jiní ale zastvali názor, že se čeština latině může rovnat. Došlo tak ke vzniku tzv. Humanistické češtiny - napodobování latinské větné stavby, objevují se přechodníky, pasiva a slovesa na konci věty. Častá jsou ale také složitá souvětí tvořené řetězci vedlejších vět, které mohou také být vkládány doprostřed vět řídících. (V "normální" češtině je sloveso středem věty, zbytek na ní závisí - *Verbum finitum*)
+Jiní ale zastvali názor, že se čeština latině může rovnat. Došlo tak ke vzniku tzv. Humanistické češtiny - napodobování latinské větné stavby, objevují se přechodníky, pasiva. Slovesa se objevují na koncích vět, přestávají být středem věty. Častá jsou ale také složitá souvětí tvořené řetězci vedlejších vět, které mohou také být vkládány doprostřed vět řídících.
