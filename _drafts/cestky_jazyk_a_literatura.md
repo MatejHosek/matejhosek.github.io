@@ -6,6 +6,42 @@ type: Note
 category: Škola
 ---
 
+# Obecná charakteristika literatury
+
+## Figury
+
+Figury jsou zvláštní kombinace hlásek a slov, při kterých nedochází ke změně významu použitých slov. Mohou být zvukové, syntaktické, slovosledné či řečnické a hodnotící.
+
+| Figura | Definice | Příklady |
+| ------ | -------- | -------- |
+| Anafora | Opakování slova na počátku verše | *Sto roků v šachtě žil jsem, mlčel jsem <br> sto roků kopal jsem uhlí* |
+| Epifora | Opakování slova na konci verše | *a tam stojí psáno <br> dvacatého ráno <br> že já musím rukovat, <br> oh, rukovat* |
+| Aliterace | Opakování stejných hlásek na začátku sousedních slov | *Potkal potkan potkana* |
+| Epanastrofa | Opakování slova na konci jednoho a začátku druhého verše | *Střela ta se zaryla v bílá ňadra, <br> v bílá ňadra prvního Tatařína* |
+| Epizeuxis | Opakování slov v jednom verši | *Pojďme, pojďme - ale zticha, <br> ať se matička neprobudí* |
+| Asyndeton | Vynechávání spojek | *Je to život k poválení! <br> milkovat se, spít se, rvát.* |
+| Polysyndeton | Hromadění spojek | *A ten shon a ruch a vřava <br> stále prudší, stále větší!* |
+| Inverze | Obrácený slovosled | *Čas nový nové chce mít činy* |
+| Elipsa | Vynechání části výpovědi, kterou si můžeme domyslet z kontextu | *A zas do hrozného křiku...* |
+| Aposiopese | Nedokončená výpověď | *"Co já jsem všechno... a proč?"* |
+| Gradace | Stupňování | *kde je voda modravá a nebe modravé a hory modravější* |
+| Apostrofa | Oslovení neživé věci jako by byla živá | *Milý deníčku <br> Milenčin dopise* |
+| Řečnická otázka | Otázka, na kterou není očekávána odpověď | *"Kde jsi zase byl? Můžeš aspoň jeden večer nejít do hospody a zůstat doma?"* |
+| Pleonasmus | Nadbytečné hromadění souznačných slov | *Modrý blankyt* |
+| Tautologie | Rozvedení sdělení synonymními výrazy | *Nevesely, truchlivy jsou ty vodní kraje* |
+
+## Tropy
+
+Tropy jsou obrazná pojmenování, při kterých dochází ke změně významu použitých slov. Jsou běžné i mluveném jazyce, mají převážně estetický význam. Jsou komplikovanější než figury.
+
+| Tropus | Definice | Příklady |
+| ------ | -------- | -------- |
+| Metafora | Přenesení významu na základě vnější podobnosti | *V moři modrých krajek* |
+| Metonymie | Přenesení významu na základě vnitří souvisloti | *Četla Čapka <br> Hrál Dvořáka* |
+| Synekdocha | Záměna části za celek či celku za část | *Vydělat si na chleba <br> Hlava na hlavě <br> Sál rázem ztichl* |
+| Hyperbola | Nadsázka | *Sto roků v šachtě žil, mlčel jsem, <br> sto roků kopal jsem uhlí* |
+| Litotes | Výjádření kladu dvěma zápory | *Nemohu ti neříct, jak ti to dnes sluší* |
+
 # Renesance a humanismus v Čechách
 
 Čechy jsou specifickou oblastí, jelikož narozdíl o zbytku Evropy se změny v trendech projevovaly později. Příkladem může být například korespondence mezi císařem Karlem IV. a italským básníkem Franceskem Petrarcou. Tito muži byli časoví současníci, ale zatímco Itálie byla po kolena hluboko v renesanci, Čechy byly stále hluboko ve středověku.
