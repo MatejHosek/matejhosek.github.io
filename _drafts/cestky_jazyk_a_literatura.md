@@ -53,3 +53,13 @@ Díky těmto vlivům prakticky nedošlo k projevu renesance v Českých zemích,
 Podobně jako renesance se i humanismus projevil jinak než ve zbytku Evropy. Došlo totiž ke vzniku dvou hlavních větví - české a latinské. Někteří humanisté totiž zastávali názor, že český jazyk je příliš jednoduchý, aby se jím daly psát práce a že pouze latina je dostatečné vivinuta pro toto pooužití.
 
 Jiní ale zastvali názor, že se čeština latině může rovnat. Došlo tak ke vzniku tzv. Humanistické češtiny - napodobování latinské větné stavby, objevují se přechodníky, pasiva. Slovesa se objevují na koncích vět, přestávají být středem věty. Častá jsou ale také složitá souvětí tvořené řetězci vedlejších vět, které mohou také být vkládány doprostřed vět řídících.
+
+## Čeští humanisté
+
+### Hynek z Poděbrad
+
+Hynek z Poděbrad, syn Jiřího z Poděbrad, husitského krále, byl asi největším českým humanistou. Jeho osobnost se projevila kupříkaldu v Májovém snu, jeho díle o mládenci, který se z milostného sna probudí před jeho vyvrcholením, či v jeho překladu Dekameronu. Humanistou byl ale i v životě osobním, byl to frejíř, bohém a nakazil se syfilidou, na kterou umírá vě věku 40 let.
+
+### Václav hájek z Libočan
+
+Autor Kroniky české, nepřesné, však velmi oblíbené dílo o historii českých zemí. Kronika byla oblíbená  až do Národního obrození.
