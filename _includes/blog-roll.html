@@ -1,0 +1,11 @@
+<div>
+	{% for post in site.posts %}
+		{% if post.type == "Note" %}
+				<h3><a class="list" href="{{ post.url }}">{{ post.title }}</a></h3>
+				<p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+				<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+				<a href="{{- post.url -}}">Více</a>
+				<hr>
+		{% endif %}
+	{% endfor %}
+</div>
