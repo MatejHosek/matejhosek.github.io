@@ -40,7 +40,7 @@ Tropy jsou obrazná pojmenování, při kterých dochází ke změně významu p
 | Metafora | Přenesení významu na základě vnější podobnosti | *V moři modrých krajek* |
 | Metonymie | Přenesení významu na základě vnitří souvisloti | *Četla Čapka <br> Hrál Dvořáka* |
 | Synekdocha | Záměna části za celek či celku za část | *Vydělat si na chleba <br> Hlava na hlavě <br> Sál rázem ztichl* |
-| Hyperbola | Nadsázka | *Sto roků v šachtě žil, mlčel jsem, <br> sto roků kopal jsem uhlí* |
+| Hyperbola | Nadsázka | *Sto roků v šachtě žil, mlčel jsem <br> sto roků kopal jsem uhlí* |
 | Litotes | Výjádření kladu dvěma zápory | *Nemohu ti neříct, jak ti to dnes sluší* |
 
 # Renesance a humanismus v Čechách
@@ -63,4 +63,7 @@ Hynek z Poděbrad, syn Jiřího z Poděbrad, husitského krále, byl asi největ
 
 ### Václav hájek z Libočan
 
-Autor Kroniky české, nepřesné, však velmi oblíbené dílo o historii českých zemí. Kronika byla oblíbená  až do Národního obrození.
+Autor Kroniky české, nepřesné, však velmi oblíbené dílo o historii českých zemí. Kronika byla oblíbená až do Národního obrození.
+
+### Jednota bratrská
+Protestantská odnož křesťanství, mezi její členy patřil J. A. Komenský. Zpočátku odmítala vzdělání, všechny potřebné vědomosti jsou v Bibli. Později však dochází k obratu, začíná vykonávat výchovnou a vzělávací činnost, při kostelích zřizovali školy, biskupové mimo církevní úkony také vyučují. Kladou důraz převážně na praktické znalosti, viz. Komenský.
