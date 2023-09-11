@@ -2,7 +2,7 @@
 	{% for post in site.posts %}
 		{% if post.type == "Article" %}
 			<ul class="list">
-				<li><h3><a class="list" href="{{ post.url }}">{{ post.title }}</a></h3></li>
+				<li><h3 class= "list"><a class="list" href="{{ post.url }}">{{ post.title }}</a></h3></li>
 				<li>{{ post.date | date: "%e. %m. %Y" }}</li>
 			</ul>
 		{% endif %}
