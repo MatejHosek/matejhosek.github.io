@@ -1,4 +1,6 @@
 title: Matěj Hošek
+author: Matěj Hošek
+url: "https://matejhosek.github.io"
 logo: /assets/img/logo.jpeg
 description: Trvalé bydliště mých poznámek a článků o rozličných tématech
 show_downloads: false
@@ -37,3 +39,4 @@ sidebar:
 
 plugins:
   - jektex
+

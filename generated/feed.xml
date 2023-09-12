@@ -1,7 +1,6 @@
 ---
 layout: null
 permalink: /feed.xml
-# title: Blog atom feed
 # email: e@mail.com
 
 # Taken from blackblog.cz
@@ -18,7 +17,7 @@ permalink: /feed.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title type="html">{{- page.title | xml_escape -}}</title>
+	<title type="html">{{- page.title | default: site.title | xml_escape -}}</title>
 	<link href="{{- site.url -}}{{- page.permalink -}}" rel="self"/>
 	<link href="{{- site.url -}}"/>
 	<updated>{{- site.time | date_to_xmlschema -}}</updated>
