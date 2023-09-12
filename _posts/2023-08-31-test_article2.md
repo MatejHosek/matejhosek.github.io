@@ -2,7 +2,6 @@
 title: "Testovací článek numero 2"
 type: "Article"
 category: "Testovací kategorie"
-permalink: "articles/test-article2"
 edit: "https://github.com/MatejHosek/MatejHosek.github.io/blob/master/_posts/2023-08-31-test_article2.md"
 layout: article
 ---

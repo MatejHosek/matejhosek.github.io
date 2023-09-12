@@ -1,12 +1,14 @@
 title: Matěj Hošek
 author: Matěj Hošek
 url: "https://matejhosek.github.io"
+language: "cs-cz"
+
 logo: /assets/img/logo.jpeg
 description: Trvalé bydliště mých poznámek a článků o rozličných tématech
 show_downloads: false
 color-scheme: dark
 date-format: "%B %d %Y"
-language: "cs-cz"
+permalink: /:categories/:title
 
 sidebar:
   - name: Domů
@@ -15,27 +17,29 @@ sidebar:
 
   - name: O mě
     icon: <i class="fa-solid fa-circle-info"></i>
-    link: /about
+    link: /about/
 
   - name: Články
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: /articles
+    link: /articles/
 
   - name: Poznámky
     icon: <i class="fa-solid fa-pencil"></i>
-    link: /notes
+    link: /notes/
 
   - name: Reference
     icon: <i class="fa-solid fa-paper-plane"></i>
-    link: /references
+    link: /references/
 
   - name: Repozitář
     icon: <i class="fa-sharp fa-solid fa-code"></i>
-    link: https://github.com/MatejHosek/MatejHosek.github.io
+    link: https://github.com/MatejHosek/MatejHosek.github.io/
 
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
+
+
 
 plugins:
   - jektex
