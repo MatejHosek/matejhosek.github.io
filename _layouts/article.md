@@ -18,3 +18,7 @@ layout: default
 </section>
 
 {{ content }}
+
+<hr>
+<h3>Další články</h3>
+{% include list-articles.html %}
