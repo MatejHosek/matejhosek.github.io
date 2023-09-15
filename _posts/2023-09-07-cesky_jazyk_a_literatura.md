@@ -1,6 +1,5 @@
 ---
 layout: note
-permalink: notes/cjl
 title: Český jazyk a Literatura
 type: Note
 category: Škola
