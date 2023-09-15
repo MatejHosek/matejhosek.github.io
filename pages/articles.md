@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 layout: default
-permalink: "/articles"
+permalink: "/articles/"
 ---
 
 # Články
