@@ -14,32 +14,24 @@ sidebar:
   - name: Domů
     icon: <i class="fa-solid fa-home"></i>
     link: /
-
   - name: O mě
     icon: <i class="fa-solid fa-circle-info"></i>
     link: /about/
-
   - name: Články
     icon: <i class="fa-solid fa-newspaper"></i>
     link: /articles/
-
   - name: Poznámky
     icon: <i class="fa-solid fa-pencil"></i>
     link: /notes/
-
   - name: Reference
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /references/
-
   - name: Repozitář
     icon: <i class="fa-sharp fa-solid fa-code"></i>
     link: https://github.com/MatejHosek/MatejHosek.github.io/
-
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
-
-
 
 plugins:
   - jektex
