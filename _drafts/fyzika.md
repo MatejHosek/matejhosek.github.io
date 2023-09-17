@@ -1,6 +1,5 @@
 ---
 title: Fyzika
-type: Note
 category: Škola
 permalink: notes/physics
 layout: note

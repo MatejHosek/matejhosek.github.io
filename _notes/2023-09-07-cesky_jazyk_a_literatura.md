@@ -1,7 +1,6 @@
 ---
 layout: note
 title: Český jazyk a Literatura
-type: Note
 category: Škola
 edit: https://github.com/MatejHosek/matejhosek.github.io/blob/master/_posts/2023-09-07-cesky_jazyk_a_literatura.md
 ---
