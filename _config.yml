@@ -44,3 +44,9 @@ sidebar:
 plugins:
   - jektex
 
+collections:
+  notes:
+    output: true
+  articles:
+    output: true
+
