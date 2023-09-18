@@ -2,7 +2,7 @@
 layout: note
 title: Český jazyk a Literatura
 category: Škola
-edit: https://github.com/MatejHosek/matejhosek.github.io/blob/master/_posts/2023-09-07-cesky_jazyk_a_literatura.md
+edit: https://github.com/MatejHosek/matejhosek.github.io/blob/master/_notes/2023-09-07-cesky_jazyk_a_literatura.md
 ---
 
 # Obecná charakteristika literatury
