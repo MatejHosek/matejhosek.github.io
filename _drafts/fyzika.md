@@ -11,3 +11,64 @@ layout: note
 - Zkoumá velké množství částic látky v běžných časových intervalech
 - Zákony klasické fyziky a statistiky (statistická fyzika)
 - Nepopisuje okamžitý stav a pohyb jenotlivých částic (kvantová fyzika)
+
+## Kinetická teorie stavby látek
+
+- Shrnutí základních poznatků klasické fyziky o stavbě látek
+- Látky všech skupenství se zkládají z částic
+  - Atomy, molekuly, ionty a jiné, menší částice
+  - Nespojitá (diskrétní) struktura látek, většina prostoru není vyplněna částicemi
+  - Dokázáno elektronovými mikroskopy, experimenty
+- Částice se neustále a neuspořádaně pohybují
+  - Tepelný pohyb - jeho intenzita závisý na teplotě látky, teoretické zastavení pohybu při teplotě 0 K
+  - Posuvný pohyb zejména v plynech a kapalinách, rotační u víceatomových molekul, kmitavý u částic pevných a kapalných látek
+  - V rovnovážném stavu jsou všechny směry pohybu stejně pravděpodobné
+  - Důsledkem těchto pohybů je osmóza, difuze, Brownův pohyb, tlak plynu aj.
+- Částice látky mezi sebou neustále interagují přitažlivými a odpudivími silami
+  - Soudržnost pevných látek, malá stlačitelnost pevných a kapalných látek, přilnavost látek, fluktuace tlaku plynu
+- Vlastnosti sil interakce částic látky
+  - Malá vzdálenost (řádově $$10^{-12}$$ m) - převládají odpudivé elektromagnetické síly
+  - rovnovážná poloha
+  - Větší vzálenost - převládají přitažlivé síly, velikost záleží na typu a skupenství látky
+  - Důsledky:
+    - Chemické vazby mezi atomy, vazby v jádru atomu
+    - Kmitavý pohyb částic v plynech a kapalinách
+    - Potenciální energie soustavy 2 a více částic, je nutná práce vnějších sil k rozbití vazby mezi nimi
+
+## Modely struktur látek různých skupenství
+
+| Vlastnost | Pevné látky  | Kapaliny | Plyny |
+| --------- | :----------: | :------: | :---: |
+| střední vzdálenost částic | menší, záleží na látce | menší, záleží na látce | nejdále, řádově 0,1&nbsp;nm | 
+| rovnovážné polohy (vazby) | stálé | slabé, nestálé | zanedbatelné (u ideálního plynu žádné) |
+| charakter tepelného pohybu | kmitavý | kmitavý kolem nestálé rovnovánžé polohy | posuvný |
+| složky vnitřní energie | $$E_{p} >> E_{k}$$ | $$E_{p}=E_{k}$$ | $$E_{p} << E_{k}$$ |
+
+## Stavové a dějové veličiny
+
+- popisují okamžitý stav termodynamické soustavy
+  - teplota, tlak, objem, vnitřní energie, hmotnost, látkové množství, hustota, fáze látky aj.
+- Termodynamická soustava = těleso, soubor těles/částic
+  - izolovaná - nedochází k výměně s okolím
+  - uzavřená - dochází k výměně energie s okolím
+  - adiabaticky izolovaná - nedochází k tepelné výměně
+  - otevřená - dochází k výměně částic i energie
+- Termodynamický děj = změna stavových veličin soustavy, popisována ějovými veličinami
+  - práce, teplo, gradienty stavových veličin
+- Rovnovážný stav = stav s největší pravděpodobností výskytu
+- Rovnovážný děj = ideální děj, při každém okamžiku děje je soustava v rovnovážném stavu
+- Vratný děj = děj, který se dá zvrátit **přesně** zpět
+
+### Teplota a její měření
+
+- stavová veličina, značeno $$T$$ (termodynamická teplota [K]), $$t$$ (celsiova, faranheitova)
+  - termodynamická teplota je definována nezávisle na použité látce, základním bodem je absolutní nula (0 K)
+  - 0 K definováno jako teplota ideálního plynu o nulovém objemu a tlaku
+  - 1 K do roku 2019 definován pomocí trojného bodu vody (273,16 K), dnes definován fixací Boltzmannovy konstanty
+  - celsiova stupnice - definována pomocí bodu tání a varu vody za normálního tlaku
+  - změna termodynamické teploty odpovídá změně teploty celsiovy
+- lze ji chápat vnější obraz vnitřní energie termodynamické soustavy, odráží se v ní tepelný pohyb
+- jednotka je jednou ze sedmi základních jednotek SI
+- měřena teploměry různého typu
+  - založeny na nultém termodynamickém zákoně (0 TDZ) - jsou-li dvě termodynamické soustavy v rovnovážném stavu, mají stejnou teplotu
+  - teplotní roztažnost látek (rtuť, líth, bimetalový pásek), změny el. odporu, termoelektrický jev
