@@ -1,0 +1,97 @@
+---
+layout: note
+permalink: notes/biology
+title: Biologie
+category: Škola
+---
+
+# Zoologie
+
+## Rozdíly mezi rostlinnou a živočišnou buňkou
+
+TODO: Doplnit
+
+Živočišné buňky nemají buněčnou stěnu, plastidy, mají lysozomy (organely s enzymy na zpracování anorganických látek)
+
+## Prvoci
+
+- V nedávné době byl změněn taxonomický systém prvoků, existuje mnoho malých skupin s pár druhy
+- Jednobuněčné heterotrofní organismy, nejedná se o živočichy
+
+- Jednobuněčné organismy s eukariotickou buňkou
+- Buňka má složitou stavbu, musí vykonávat všechny životní funkce
+  - Dokáží se rozmnožovat, přijímat potravu, pohybovat se, růst a vyvýjet se (ontogeneze - vývoj jedince, fylogeneze - vývoj druhu), vnímat své okolí
+- Heterotrofní způsov výživy, neumí vykonáváat fotosyntézu
+- Jsou kosmopolitně rozšířeni
+- Netvoří tkáně a orgány, v rámci buňky mají organely vykonávající určité funkce
+
+### Význam
+
+- Jsou součástí potravních řetězců
+  - Složka planktonu, bentosu
+- Původci onemocnění
+- Rozklad organických zbytků
+- Tvorba tělesných schránek - horninotvorná aktivita
+
+### Uspořádání těla
+
+- Povrch těla kryt pelikulou, tuhou, zesílenou cytoplazmatickou membránou, případně schránka z vápence, chitinu
+- Dýchají celým povrchem těla, přes cytoplazmatickou membránu
+- Pohyb - pomocí bičíků, panožek, brv
+- Vylučování pomocí stažitelných vakuol, po naplnění odpadem je obsah vypuštěn do okolí
+- Přijem potravy celým povrchem, fagocytózou, pomocí buněčných úst
+- Buněčná ústa - na jednom místě se membrána zkroutí dovnitř a vytvoří jakousi nálevku. Při vstupu potravy do nálevky se cytoplazmatická mambrána uzavře, vzniká potravní vakuola
+- Fagocytóza - podobný princip, místo cytoplazmatické membrány je ale vakuola tvořena ponožkami
+- Při nepříznivých podmínkách umí něktřetí prvoci vytvořit cystu kryté mnoha obaly, ve kterém přečkají do lepších časů
+
+### Rozmnožování
+
+- Nepohlavní 
+  - buněčné dělení
+  - pučení - na těle prvoka vyroste nádor - nové tělo
+  - schizogonie - mateřská buňka se rozpadne na několik dceřinných (schyzonty), typické pro výtrusovce
+- Pohlavní - spojení dvou buněk za vzniku zygoty
+  - Kopulace - splývání těl prvoků
+  - Konjugace - výměna části genetické informace mezi dvěma prvoky pomocí buněčných úst
+
+## Bičíkovci
+
+- mají jeden nebo více bičíků
+- potravu přijímají celým povrchem těla
+- mnoho zástupců parazituje
+- jedni z prvních na Zemi, předchůdci živočichů
+- Zástupci: Trypanazoma spavičná, bičenka poševní, lamblie střevní, trubénka Haeckelova, bičivka rybí (bíle povlaky na hlavách ryb), ničivka kožní, ničivka útrobní, bičivka krocaní
+
+### Trypanazoma spavčitá
+
+- bičík srůstá s buňkou přes undulující membránou, pomocí které se pohybuje
+- původce spavé nemoci, přenášena mouchou Tse-tse
+- projevuje se vyrážkami na kůži (kožní fáze, pár dní), horečkami, únavou (krevní fáze), celkovým vyčerpáním (někdy i až rok po nakažením, napadá nervovou soustavu)
+- příbuzné druhy trypanazom způsobují škody na dobytku
+
+### Bičenka poševní
+
+- přenáší se pohlavním stykem
+- působí hnisavé záněty pochvy u žen (trichomoniáza)
+
+### Lamblie střevní
+
+- Uchycuje se pomocí přísavky v tenkém střevě
+- Způsobuje průjmy, bolesti břicha, nevolnost
+- Šíří se nečistou vodou, jídlem, je vylučována, může se šířit fekáliemi
+
+## Kořenonožci
+
+- pohyb pomocí panožek (měňavkovitý/ameboidní pohyb)
+- potrava přijímána fagocytózou
+- volně žijící i cizopasníci
+- Zástupci měňavky, dírkonožci, krytenky, mřížovci
+
+### Měňavky
+
+- proměnlivý tvar těla, nevytváří schránky
+- mnoho zástupců
+  - měňavka velká - půdy a stojaté vody
+  - měňavka ústní - ústa člověka, neškodná
+  - měňavka střevní - střeva člověka, neškodná
+  - měňavka úplavičná - úplavice, šířena hlavně nečistou vodou, potravou, způsobuje nevolnost, bolest břicha, silné průjmy
