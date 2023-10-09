@@ -14,11 +14,11 @@ Figury jsou zvláštní kombinace hlásek a slov, při kterých nedochází ke z
 | Figura | Definice | Příklady |
 | ------ | -------- | -------- |
 | Anafora | Opakování slova na počátku verše | *Sto roků v šachtě žil jsem, mlčel jsem <br> sto roků kopal jsem uhlí* |
-| Epifora | Opakování slova na konci verše | *a tam stojí psáno <br> dvacatého ráno <br> že já musím rukovat, <br> oh, rukovat* |
+| Epifora | Opakování slova na konci verše | *a tam stojí psáno <br> dvacátého ráno <br> že já musím rukovat, <br> oh, rukovat* |
 | Aliterace | Opakování stejných hlásek na začátku sousedních slov | *Potkal potkan potkana* |
 | Epanastrofa | Opakování slova na konci jednoho a začátku druhého verše | *Střela ta se zaryla v bílá ňadra, <br> v bílá ňadra prvního Tatařína* |
 | Epizeuxis | Opakování slov v jednom verši | *Pojďme, pojďme - ale zticha, <br> ať se matička neprobudí* |
-| Asyndeton | Vynechávání spojek | *Je to život k poválení! <br> milkovat se, spít se, rvát.* |
+| Asyndeton | Vynechávání spojek | *Je to život k poválení! <br> milovat se, spít se, rvát.* |
 | Polysyndeton | Hromadění spojek | *A ten shon a ruch a vřava <br> stále prudší, stále větší!* |
 | Inverze | Obrácený slovosled | *Čas nový nové chce mít činy* |
 | Elipsa | Vynechání části výpovědi, kterou si můžeme domyslet z kontextu | *A zas do hrozného křiku...* |
@@ -36,10 +36,10 @@ Tropy jsou obrazná pojmenování, při kterých dochází ke změně významu p
 | Tropus | Definice | Příklady |
 | ------ | -------- | -------- |
 | Metafora | Přenesení významu na základě vnější podobnosti | *V moři modrých krajek* |
-| Metonymie | Přenesení významu na základě vnitří souvisloti | *Četla Čapka <br> Hrál Dvořáka* |
+| Metonymie | Přenesení významu na základě vnitřní souvislosti | *Četla Čapka <br> Hrál Dvořáka* |
 | Synekdocha | Záměna části za celek či celku za část | *Vydělat si na chleba <br> Hlava na hlavě <br> Sál rázem ztichl* |
 | Hyperbola | Nadsázka | *Sto roků v šachtě žil, mlčel jsem <br> sto roků kopal jsem uhlí* |
-| Litotes | Výjádření kladu dvěma zápory | *Nemohu ti neříct, jak ti to dnes sluší* |
+| Litotes | Vyjádření kladu dvěma zápory | *Nemohu ti neříct, jak ti to dnes sluší* |
 
 # Renesance a humanismus v Čechách
 
