@@ -47,21 +47,21 @@ Tropy jsou obrazná pojmenování, při kterých dochází ke změně významu p
 
 Tyto rozdělení bylo způsobenou různými ekonomickými rozvraty, způsobenými husitskými válkami, pevnou mocí církve a rozdílnou českou mentalitou.
 
-Díky těmto vlivům prakticky nedošlo k projevu renesance v Českých zemích, zato humanismus dosáhl plného rozmachu. Projevovalo se heslo *Ad fontes*, K pramenům, tedy návrat k prvotním poznatkům daných oborů a stavění nového poznaní na nich. Příkladem může být nový překlad Bible, který byl narozdíl ze staročeského překlau vytvořen z hebrejských, respektive řeckých originálů.
+Díky těmto vlivům prakticky nedošlo k projevu renesance v Českých zemích, zato humanismus dosáhl plného rozmachu. Projevovalo se heslo *Ad fontes*, K pramenům, tedy návrat k prvotním poznatkům daných oborů a stavění nového poznaní na nich. Příkladem může být nový překlad Bible, který byl na rozdíl ze staročeského překladu vytvořen z hebrejských, respektive řeckých originálů.
 
-Podobně jako renesance se i humanismus projevil jinak než ve zbytku Evropy. Došlo totiž ke vzniku dvou hlavních větví - české a latinské. Někteří humanisté totiž zastávali názor, že český jazyk je příliš jednoduchý, aby se jím daly psát práce a že pouze latina je dostatečné vivinuta pro toto pooužití.
+Podobně jako renesance se i humanismus projevil jinak než ve zbytku Evropy. Došlo totiž ke vzniku dvou hlavních větví - české a latinské. Někteří humanisté totiž zastávali názor, že český jazyk je příliš jednoduchý, aby se jím daly psát práce a že pouze latina je dostatečné vyvinuta pro toto použití.
 
-Jiní ale zastvali názor, že se čeština latině může rovnat. Došlo tak ke vzniku tzv. Humanistické češtiny - napodobování latinské větné stavby, objevují se přechodníky, pasiva. Slovesa se objevují na koncích vět, přestávají být středem věty. Častá jsou ale také složitá souvětí tvořené řetězci vedlejších vět, které mohou také být vkládány doprostřed vět řídících.
+Jiní ale zastváli názor, že se čeština latině může rovnat. Došlo tak ke vzniku tzv. Humanistické češtiny - napodobování latinské větné stavby, objevují se přechodníky, pasiva. Slovesa se objevují na koncích vět, přestávají být středem věty. Častá jsou ale také složitá souvětí tvořené řetězci vedlejších vět, které mohou také být vkládány doprostřed vět řídících.
 
 ## Čeští humanisté
 
 ### Hynek z Poděbrad
 
-Hynek z Poděbrad, syn Jiřího z Poděbrad, husitského krále, byl asi největším českým humanistou. Jeho osobnost se projevila kupříkaldu v Májovém snu, jeho díle o mládenci, který se z milostného sna probudí před jeho vyvrcholením, či v jeho překladu Dekameronu. Humanistou byl ale i v životě osobním, byl to frejíř, bohém a nakazil se syfilidou, na kterou umírá vě věku 40 let.
+Hynek z Poděbrad, syn Jiřího z Poděbrad, husitského krále, byl asi největším českým humanistou. Jeho osobnost se projevila kupříkladu v Májovém snu, jeho díle o mládenci, který se z milostného sna probudí před jeho vyvrcholením, či v jeho překladu Dekameronu. Humanistou byl ale i v životě osobním, byl to frejíř, bohém a nakazil se syfilidou, na kterou umírá ve věku 40 let.
 
 ### Václav hájek z Libočan
 
 Autor Kroniky české, nepřesné, však velmi oblíbené dílo o historii českých zemí. Kronika byla oblíbená až do Národního obrození.
 
 ### Jednota bratrská
-Protestantská odnož křesťanství, mezi její členy patřil J. A. Komenský. Zpočátku odmítala vzdělání, všechny potřebné vědomosti jsou v Bibli. Později však dochází k obratu, začíná vykonávat výchovnou a vzělávací činnost, při kostelích zřizovali školy, biskupové mimo církevní úkony také vyučují. Kladou důraz převážně na praktické znalosti, viz. Komenský.
+Protestantská odnož křesťanství, mezi její členy patřil J. A. Komenský. Zpočátku odmítala vzdělání, všechny potřebné vědomosti jsou v Bibli. Později však dochází k obratu, začíná vykonávat výchovnou a vzdělávací činnost, při kostelích zřizovali školy, biskupové mimo církevní úkony také vyučují. Kladou důraz převážně na praktické znalosti, viz. Komenský.
