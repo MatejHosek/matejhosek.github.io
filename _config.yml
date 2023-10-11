@@ -33,12 +33,23 @@ sidebar:
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
 
-plugins:
-  - jektex
 
 collections:
   notes:
     output: true
   articles:
     output: true
+
+
+plugins:
+  - jektex
+
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
 
