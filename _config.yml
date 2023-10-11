@@ -46,7 +46,7 @@ plugins:
 
 
 jektex:
-  cache_dir: ".jektex-cache"
+  cache_dir: ".jekyll-cache"
   ignore: ["*.xml"]
   silent: false
   macros:
