@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Články"
 layout: default
 permalink: "/articles/"
 ---

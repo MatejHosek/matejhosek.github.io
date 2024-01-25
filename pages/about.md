@@ -1,4 +1,5 @@
 ---
+title: "O mně"
 layout: default
 permalink: "/about/"
 ---

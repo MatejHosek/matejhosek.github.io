@@ -1,5 +1,5 @@
 ---
-title: "Notes"
+title: "Poznámky"
 layout: default
 permalink: "/notes/"
 ---
