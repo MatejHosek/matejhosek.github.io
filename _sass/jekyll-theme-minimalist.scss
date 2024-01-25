@@ -178,6 +178,28 @@ kbd {
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
 }
 
+.spliter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.spliter-item {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+}
+
+.references-display
+  .spliter
+    .spliter-item {
+      min-width: 300px;
+    }
+
 // Disables the scrollbar in Firefox
 // HTML-Proofer fails without "@-moz-document url-prefix()"
 // because scrollbar-width is still experimental in Firefox.
