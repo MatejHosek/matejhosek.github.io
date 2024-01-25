@@ -3,6 +3,17 @@ layout: default
 permalink: "/about/"
 ---
 
-# Ahoj!
+# Ahoj, jmenuji se Matěj!
 
-Jmenuji se Matěj Hošek, pocházím z Ostravy a studuji všobecné osmileté gymnázium. Mezi mé hlavní zájmy patří astronomie, fyzika, matematika a informatika. Rád ale taky vyrazím ven někam do hor nebo na kole do lesa.
+Pocházím z Ostravy, kde také studuji osmileté gymnázium. Ve svém volném čase se věnuji astronomii, informatice a přírodním vědám. Poslední dobou si i více a více hraju s 3D tiskem.
+
+Baví mě trávit čas v přírodě, čundrovat a hrát šifrovací hry. Rád ale taky provětrám kolo nebo si zahraju badminton.
+
+## Kde mě najdete?
+
+- Email: <matthy.hosek@gmail.com>
+- Github: [MatejHosek](https://github.com/MatejHosek)
+
+## O mém blogu
+
+Zde najdete mé poznámky ze školy, odkazy na zajímavé lidi/akce a články o tom, co mě zrovna zajímalo (až tedy nějaké napíšu).
