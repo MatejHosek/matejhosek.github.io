@@ -3,6 +3,7 @@ title: Seminář z biologie
 category: Škola
 permalink: notes/biology_seminar
 layout: note
+edit: https://github.com/MatejHosek/matejhosek.github.io/blob/master/_notes/2024-09-03-biologicky_seminar.md
 ---
 
 {:toc}
@@ -12,7 +13,7 @@ layout: note
 
 # Etologie
 
-Etologie se zabývá základními prvky chování živočichů. Studuje, jak chování ovlivňuje metabolismus (chování podmíněné metabolismem), jak se brání před predátory (ochranné chování), jak se uklidňují a opečovávají (komfortní chování), rozmnnnožují (rozmnožovací) či socializují (sociální). Studuje ale také periodicitu chování, ale i komunikaci s jinými příslušníky svého druhu, či také jak se živočich učí a jak si pamatuje.
+Etologie se zabývá základními prvky chování živočichů. Studuje, jak chování ovlivňuje metabolismus (chování podmíněné metabolismem), jak se brání před predátory (ochranné chování), jak se uklidňují a opečovávají (komfortní chování), rozmnožují (rozmnožovací) či socializují (sociální). Studuje ale také periodicitu chování, ale i komunikaci s jinými příslušníky svého druhu, či také jak se živočich učí a jak si pamatuje.
 
 ## Historie
 ### Začátky sledování
